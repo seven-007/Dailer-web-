@@ -1,0 +1,7 @@
+﻿$axure.loadCurrentPage(
+(function() {
+    var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
+    var _creator = function() { return _(b,c,d,e,f,g,h,g,i,_(j,k),l,[m,n,o,p,q,r,s,t,u],v,_(w,x,y,z,A,B,C,_(),D,_(E,F,G,H,I,_(J,K,L,M),N,null,O,P,Q,P,R,S,T,null,U,V,W,X,Y,Z,ba,V),bb,_(),bc,_(),bd,_(be,[])),bf,_(),bg,_());}; 
+var b="url",c="产品结构图.html",d="generationDate",e=new Date(1551432473239.61),f="isCanvasEnabled",g=false,h="isAdaptiveEnabled",i="sketchKeys",j="",k="s0",l="variables",m="SelectedCount",n="No1Hotel",o="No2Hotel",p="No3Hotel",q="Tips1",r="username",s="pwd",t="Next",u="goods",v="page",w="packageId",x="1c97a18af11f4185b7486958bd21041c",y="type",z="Axure:Page",A="name",B="产品结构图",C="notes",D="style",E="baseStyle",F="627587b6038d43cca051c114ac41ad32",G="pageAlignment",H="center",I="fill",J="fillType",K="solid",L="color",M=0xFFFAFAFA,N="image",O="imageHorizontalAlignment",P="near",Q="imageVerticalAlignment",R="imageRepeat",S="auto",T="favicon",U="sketchFactor",V="0",W="colorStyle",X="appliedColor",Y="fontName",Z="苹方",ba="borderWidth",bb="adaptiveStyles",bc="interactionMap",bd="diagram",be="objects",bf="masters",bg="objectPaths";
+return _creator();
+})());
